@@ -30,6 +30,6 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally using npm:
- cd loginApp
- npm install
- npx react-native run-android
+  * cd loginApp
+  * npm install
+  * npx react-native run-android
